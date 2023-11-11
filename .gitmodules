@@ -1,0 +1,12 @@
+[submodule "Decoder"]
+	path = Decoder
+	url = https://github.com/ali-pakdel/Decoder.git
+[submodule "Naive-Bayes-Magazine-Classifier"]
+	path = Naive-Bayes-Magazine-Classifier
+	url = https://github.com/ali-pakdel/Naive-Bayes-Magazine-Classifier.git
+[submodule "Music-Genre-Prediction"]
+	path = Music-Genre-Prediction
+	url = https://github.com/ali-pakdel/Music-Genre-Prediction.git
+[submodule "Handwriting-Recognition"]
+	path = Handwriting-Recognition
+	url = https://github.com/ali-pakdel/Handwriting-Recognition.git
